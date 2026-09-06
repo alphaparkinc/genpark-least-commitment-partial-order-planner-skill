@@ -1,0 +1,15 @@
+{
+  "name": "genpark-least-commitment-partial-order-planner-skill",
+  "version": "1.0.0",
+  "description": "Partial-Order Causal Link (POCL) planning engine maintaining causal dependencies and ordering constraints.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "pocl",
+    "partial-order-planning",
+    "causal-links",
+    "least-commitment",
+    "threat-resolution"
+  ]
+}
